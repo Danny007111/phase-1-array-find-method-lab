@@ -3,7 +3,7 @@ function superbowlWin(record){
 
     function superbowl(thing){
         return thing.result === "W";
-        // if(year.result === "W"){
+        // if(thing.result === "W"){
         // return true;
         // }else{
         // return false;
