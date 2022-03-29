@@ -1,8 +1,8 @@
 // code your solution here
 function superbowlWin(record){
 
-    function superbowl(year){
-        return year.result === "W";
+    function superbowl(thing){
+        return thing.result === "W";
         // if(year.result === "W"){
         // return true;
         // }else{
